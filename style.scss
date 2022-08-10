@@ -19,12 +19,29 @@ body {
         h1 {
             color: #243948;
         }
+        .form-submit {
+            padding: 15px 0;
+        }
         .form-element {
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            transition: all 0.3 ease-in;
+            transition: 1s all ease-in;
+            button:only-child {
+                padding: 10px 25px;
+                border-radius: 5px;
+                border: 1px solid cornflowerblue;
+                background: white;
+                font-size: 16px;
+                width: 260px;
+                cursor: pointer;
+                transition: 1s all ease-in;
+                &:hover {
+                    background: rgba(173,252,234,1) 26.8%;
+                    transition: 1s all ease-in;
+                }
+            }
             input {
                 height: 25px;
                 padding: 5px;
