@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Figtree:wght@300&display=swap");
-h1 {
+* {
   font-family: "Figtree", sans-serif;
   font-style: Regular;
   font-weight: 600;
@@ -9,4 +9,12 @@ p {
   font-family: "Figtree", sans-serif;
   font-style: Light;
   font-weight: 300;
+}
+
+input {
+  height: 25px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid cornflowerblue;
+  width: 200px;
 }/*# sourceMappingURL=style.css.map */
