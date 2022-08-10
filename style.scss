@@ -1,9 +1,22 @@
 @import 'partials/typography';
 
-input {
-    height: 25px;
-    padding: 5px;
-    border-radius: 5px;
-    border: 1px solid cornflowerblue;
-    width: 200px;
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    #wrapper {
+        input {
+            height: 25px;
+            padding: 5px;
+            border-radius: 5px;
+            border: 1px solid cornflowerblue;
+            width: 250px;
+            font-size: 18px;
+        }
+        label {
+            padding: 0 10px;
+            font-size: 18px;
+        }
+    }
+
 }

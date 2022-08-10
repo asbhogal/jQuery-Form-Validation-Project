@@ -1,20 +1,26 @@
 @import url("https://fonts.googleapis.com/css2?family=Figtree:wght@300&display=swap");
 * {
   font-family: "Figtree", sans-serif;
-  font-style: Regular;
   font-weight: 600;
 }
-
-p {
-  font-family: "Figtree", sans-serif;
-  font-style: Light;
+* p {
   font-weight: 300;
 }
 
-input {
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body #wrapper input {
   height: 25px;
   padding: 5px;
   border-radius: 5px;
   border: 1px solid cornflowerblue;
-  width: 200px;
+  width: 250px;
+  font-size: 18px;
+}
+body #wrapper label {
+  padding: 0 10px;
+  font-size: 18px;
 }/*# sourceMappingURL=style.css.map */
