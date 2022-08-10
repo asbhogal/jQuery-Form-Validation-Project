@@ -5,6 +5,31 @@ function isEmail(email) {               // FUNCTION WHICH VALIDATES AN EMAIL ADD
 
 $("#submit-btn").click(function() {
     var errorMessage = "";
+    var fieldsMissing = "";
+
+    if($("#name").val() == "") {
+        fieldsMissing += "<li>Name</li>";
+    }
+
+    if ($("#email").val() == "") {
+        fieldsMissing += "<li>Email Address</li>";
+    }
+
+    if ($("#phone").val() == "") {
+        fieldsMissing += "<li>Phone Number</li>";
+    }
+
+    if ($("#password").val() == "") {
+        fieldsMissing += "<li>Password</li>";
+    }
+
+    if ($("#password-confirm").val() == "") {
+        fieldsMissing += "<li>Password Confirmation</li>";
+    }
+
+    if (fieldsMissing != "") {
+        errorMessage += "<p>The following field(s) are missing: </p>" + fieldsMissing;
+    }
 
     if (isEmail($("#email").val()) == false) {                                                  // // BY DEFAULT, THE CHECK WILL BE TRUE. HERE, THIS IS CHANGED TO ACTION A COMMAND IF IT IS FALSE - THIS IS OF PARTICULAR INTEREST
         errorMessage +=  "<p>Please enter a valid email address</p>";                           // THE += OPERATOR APPENDS THE ASSIGNED STRING VALUE TO THE END OF THE CONTENTS OF errorMessage
@@ -14,10 +39,13 @@ $("#submit-btn").click(function() {
         errorMessage += "<p>Please enter a valid phone number</p>";
     }   
 
-    if ($("#password").val() != $("#password-confirm").val()) {             // THE != OPERATOR IS USED TO CHECK IF TWO VALUES ARE NOT EQUAL TO EACH OTHER
-        errorMessage += "Please check the passwords match"
+    if ($("#password").val() != $("#password-confirm").val()) {             // THE != OPERATOR IS USED TO CHECK IF TWO VALUES ARE NOT EQUAL TO EACH OTHER. BOTH MUST BE THE SAME TYPE IE. ELEMENT IDs IN THIS CASE
+        errorMessage += "<p>Please check the passwords match</p>"
     }
-    alert(errorMessage);
+    
+    if(errorMessage != "") {
+        $("#error-message").html(errorMessage);
+    }
 });
 
 
