@@ -13,18 +13,24 @@ body {
         h1 {
             color: #243948;
         }
-        input {
-            height: 25px;
-            padding: 5px;
-            border-radius: 5px;
-            border: 1px solid cornflowerblue;
-            width: 250px;
-            font-size: 18px;
-        }
-        label {
-            padding: 10px 0;
-            font-size: 18px;
-            color: #243948;
+        .form-element {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            input {
+                height: 25px;
+                padding: 5px;
+                border-radius: 5px;
+                border: 1px solid cornflowerblue;
+                width: 250px;
+                font-size: 18px;
+            }
+            label {
+                padding: 10px 0;
+                font-size: 18px;
+                color: #243948;
+            }
         }
     }
 
