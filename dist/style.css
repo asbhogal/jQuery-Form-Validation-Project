@@ -3,15 +3,19 @@
   font-family: "Figtree", sans-serif;
   font-weight: 600;
 }
-* p {
+* p, * input {
   font-weight: 300;
+}
+* button {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 body {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   background-image: linear-gradient(95.2deg, rgb(173, 252, 234) 26.8%, rgb(192, 229, 246) 64%);
   height: 100vh;
   vertical-align: middle;
