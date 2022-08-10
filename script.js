@@ -3,6 +3,8 @@ function isEmail(email) {               // FUNCTION WHICH VALIDATES AN EMAIL ADD
     return regex.test(email);           // test FUNCTION RETURNS EITHER FALSE OR TRUE
   }
 
+
+
 $("#submit-btn").click(function() {
     var errorMessage = "";
     var fieldsMissing = "";
@@ -47,8 +49,6 @@ $("#submit-btn").click(function() {
         $("#error-message").html(errorMessage);
     }
 });
-
-
 
 // THE TEST FUNCTION NEEDS TO BE PARSED AGAINST THE CONTENTS OF THE HTML INPUT USING ITS ID
 // .val, AS IMPLIED, RETRIEVES THE VALUE OF THIS HTML INPUT. AN EMPTY PARAMETER IS USED, AS THE VALUE IS BEING RETRIEVED, NOT SET
