@@ -1,3 +1,14 @@
+function isEmail(email) {               // FUNCTION WHICH VALIDATES AN EMAIL ADDRESS VIA REGEX
+    var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    return regex.test(email);           // test FUNCTION RETURNS EITHER FALSE OR TRUE
+  }
+
 $("#submit-btn").click(function() {
-    
+    alert(isEmail($("#email").val()));
 });
+
+// THE TEST FUNCTION NEEDS TO BE PARSED AGAINST THE CONTENTS OF THE HTML INPUT USING ITS ID
+// .val, AS IMPLIED, RETRIEVES THE VALUE OF THIS HTML INPUT. AN EMPTY PARAMETER IS USED, AS THE VALUE IS BEING RETRIEVED, NOT SET
+// THE AIM IS TO RUN THE FUNCTION isEmail ON THE VALUE RETRIEVED FROM
+// FINALLY, THIS IS WRAPPED AROUND THE alert, WHICH DISPLAYS THE RESULT (true OR false)
+// THIS IS ALL CARRIED OUT WHEN THE SUBMIT BUTTON IS CLICKED.
