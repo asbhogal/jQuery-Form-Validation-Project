@@ -27,7 +27,7 @@
             cursor: pointer;
             transition: $transition-03;
             &:hover {
-                background: rgba(173,252,234,1) 26.8%;
+                background: $secondary-color;
                 transition: $transition-03;
             }
         }
@@ -43,7 +43,7 @@
             transition: $transition-03;
             &:focus {
                 transition: $transition-03;
-                background: #93e5eb3a;
+                background: $secondary-color;
             }
             &:hover {
                 border-color: #243948;
