@@ -13,6 +13,10 @@ $("#submit-btn").click(function() {
     if ($.isNumeric($("#phone").val()) == false) {
         errorMessage += "<p>Please enter a valid phone number</p>";
     }   
+
+    if ($("#password").val() != $("#password-confirm").val()) {             // THE != OPERATOR IS USED TO CHECK IF TWO VALUES ARE NOT EQUAL TO EACH OTHER
+        errorMessage += "Please check the passwords match"
+    }
     alert(errorMessage);
 });
 
