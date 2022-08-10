@@ -43,12 +43,12 @@ body #wrapper .form-element input {
   width: 250px;
   font-size: 18px;
   caret-color: #5fa0be;
-  color: #5fa0be;
+  color: #344147;
   transition: all 0.3 ease-in;
 }
 body #wrapper .form-element input:focus {
   transition: all 0.3 ease-in;
-  background: rgba(177, 218, 237, 0.2274509804);
+  background: rgba(147, 229, 235, 0.2274509804);
 }
 body #wrapper .form-element input:hover {
   border-color: #243948;
