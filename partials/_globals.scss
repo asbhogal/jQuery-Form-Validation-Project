@@ -1,5 +1,11 @@
+@import 'partials/mixins';
+
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    @include flex-central-align;
+    background-image: $background-image;
+    height: 100vh;
+    vertical-align: middle;
 }

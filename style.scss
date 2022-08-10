@@ -1,66 +1,59 @@
 @import 'partials/globals', 'partials/mixins', 'partials/typography', 'partials/variables';
 
-body {
-    @include flex-central-align;
-    background-image: $background-image;
-    height: 100vh;
-    vertical-align: middle;
-    #wrapper {
-        display: inherit;
-        flex-direction: column;
-        align-items: center;
-        border: 1px solid rgba(71, 115, 196, 0.384);
-        box-shadow: 0 10px 20px rgba(17, 17, 17, 0.161);
-        padding: 60px 50px;
-        border-radius: 5px;
-        h1 {
+#wrapper {
+    display: inherit;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 10px 20px rgba(17, 17, 17, 0.161);
+    padding: 60px 50px;
+    border-radius: 5px;
+    h1 {
+        color: #243948;
+    }
+    .form-submit {
+        padding: 25px 0;
+    }
+    .form-element {
+        @include flex-central-align;
+        transition: $transition-03;
+        button:only-child {
+            padding: 10px 25px;
+            border-radius: 5px;
+            border: none;
+            box-shadow: 0 10px 20px rgba(17, 17, 17, 0.161);
+            background: white;
+            font-size: 16px;
+            width: 260px;
+            cursor: pointer;
+            transition: $transition-03;
+            &:hover {
+                background: rgba(173,252,234,1) 26.8%;
+                transition: $transition-03;
+            }
+        }
+        input {
+            height: 25px;
+            padding: 5px;
+            border-radius: 5px;
+            border: 1px solid cornflowerblue;
+            width: 250px;
+            font-size: 18px;
+            caret-color: #5fa0be;
+            color: #344147;
+            transition: $transition-03;
+            &:focus {
+                transition: $transition-03;
+                background: #93e5eb3a;
+            }
+            &:hover {
+                border-color: #243948;
+                transition: $transition-03;
+            }
+        }
+        label {
+            padding: 10px 0;
+            font-size: 18px;
             color: #243948;
         }
-        .form-submit {
-            padding: 15px 0;
-        }
-        .form-element {
-            @include flex-central-align;
-            transition: $transition-03;
-            button:only-child {
-                padding: 10px 25px;
-                border-radius: 5px;
-                border: 1px solid cornflowerblue;
-                background: white;
-                font-size: 16px;
-                width: 260px;
-                cursor: pointer;
-                transition: $transition-03;
-                &:hover {
-                    background: rgba(173,252,234,1) 26.8%;
-                    transition: $transition-03;
-                }
-            }
-            input {
-                height: 25px;
-                padding: 5px;
-                border-radius: 5px;
-                border: 1px solid cornflowerblue;
-                width: 250px;
-                font-size: 18px;
-                caret-color: #5fa0be;
-                color: #344147;
-                transition: $transition-03;
-                &:focus {
-                    transition: $transition-03;
-                    background: #93e5eb3a;
-                }
-                &:hover {
-                    border-color: #243948;
-                    transition: $transition-03;
-                }
-            }
-            label {
-                padding: 10px 0;
-                font-size: 18px;
-                color: #243948;
-            }
-        }
     }
-
 }
