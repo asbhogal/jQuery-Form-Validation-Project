@@ -3,7 +3,14 @@ function isEmail(email) {               // FUNCTION WHICH VALIDATES AN EMAIL ADD
     return regex.test(email);           // test FUNCTION RETURNS EITHER FALSE OR TRUE
   }
 
+function isName(name) {
+    var regex = /a-zA-Z/;
+    return regex.val(name);
+}
 
+$("#submit-btn").click(function() {
+
+});
 
 $("#submit-btn").click(function() {
     var errorMessage = "";
