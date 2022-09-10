@@ -1,6 +1,7 @@
 <h1>Form Validation Project</h1>
 
-![](https://api.checklyhq.com/v1/badges/checks/2dbe96ad-bb35-46aa-83d0-b8c7209db2d2?style=for-the-badge&theme=dark)
+![](https://api.checklyhq.com/v1/badges/checks/2dbe96ad-bb35-46aa-83d0-b8c7209db2d2?style=for-the-badge&theme=dark) 
+![](https://api.checklyhq.com/v1/badges/checks/2dbe96ad-bb35-46aa-83d0-b8c7209db2d2?style=for-the-badge&theme=dark) 
 
 A form validation created using HTML5, CSS (SCSS), JS & jQuery as a project for the Udemy Course The Complete Web Developer Course 2.0.
 
