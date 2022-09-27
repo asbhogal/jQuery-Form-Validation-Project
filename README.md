@@ -1,6 +1,10 @@
-<h1>Form Validation Project</h1>
+<div align="center">
+  
+  <h1>Form Validation Project</h1>
 
-![](https://api.checklyhq.com/v1/badges/checks/2dbe96ad-bb35-46aa-83d0-b8c7209db2d2?style=for-the-badge&theme=dark) ![](https://api.checklyhq.com/v1/badges/checks/2dbe96ad-bb35-46aa-83d0-b8c7209db2d2?style=for-the-badge&theme=dark&responseTime=true)
+![](https://api.checklyhq.com/v1/badges/checks/2dbe96ad-bb35-46aa-83d0-b8c7209db2d2?style=for-the-badge&theme=dark) ![](https://api.checklyhq.com/v1/badges/checks/2dbe96ad-bb35-46aa-83d0-b8c7209db2d2?style=for-the-badge&theme=dark&responseTime=true) <br><br> ![GitHub deployments](https://img.shields.io/github/deployments/asbhogal/jQuery-Form-Validation-Project/production?label=DEPLOYMENT%20STATE&style=for-the-badge&labelColor=000) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/asbhogal/jQuery-Form-Validation-Project?style=for-the-badge&labelColor=000) ![GitHub repo size](https://img.shields.io/github/repo-size/asbhogal/jQuery-Form-Validation-Project?color=blueviolet&style=for-the-badge&labelColor=000)
+
+</div>
 
 A form validation created using HTML5, CSS (SCSS), JS & jQuery as a project for the Udemy Course The Complete Web Developer Course 2.0.
 
