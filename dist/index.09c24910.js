@@ -1,10 +1,9 @@
 function isEmail(email) {
-    var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    const regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
     return regex.test(email); // test FUNCTION RETURNS EITHER FALSE OR TRUE
 }
 $("#submit-btn").click(function() {
-    var errorMessage = "";
-    var fieldsMissing = "";
+    let errorMessage = "", fieldsMissing = "";
     if ($("#name").val() == "") fieldsMissing += "<li>Name</li>";
     if ($("#email").val() == "") fieldsMissing += "<li>Email Address</li>";
     if ($("#phone").val() == "") fieldsMissing += "<li>Phone Number</li>";
