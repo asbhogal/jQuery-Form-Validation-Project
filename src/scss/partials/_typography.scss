@@ -1,7 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300&display=swap');
+/********** FIGTREE LIGHT - 300 NORMAL **********/
+
+@font-face {
+    font-family: 'Figtree Light';
+    font-weight: 300;
+    font-style: normal;
+    src:    url('../../fonts/Figtree-Light.woff') format('woff'),
+            url('../../fonts/Figtree-Light.woff2') format('woff2');
+    font-display: swap;
+}
+
+/********** FIGTREE NORMAL - 400 NORMAL **********/
+
+@font-face {
+    font-family: 'Figtree Normal';
+    font-weight: 400;
+    font-style: normal;
+    src:    url('../../fonts/Figtree-Regular.woff') format('woff'),
+            url('../../fonts/Figtree-Regular.woff2') format('woff2');
+    font-display: swap;
+}
 
 * {
-    font-family: 'Figtree', sans-serif;
+    font-family: 'Figtree Normal', sans-serif;
     font-weight: 600;
     p, input {
         font-weight: 300;
