@@ -1,0 +1,66 @@
+@use 'partials/globals' as *;
+@use 'partials/mixins' as *;
+@use 'partials/responsive' as *; 
+@use 'partials/typography' as *; 
+@use 'partials/variables' as *;
+
+#wrapper {
+    display: inherit;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 .625rem 1.25rem #11111129;
+    padding: 1.875rem 3.125rem;
+    border-radius: .3125rem;
+    #error-message {
+        color: red;
+    }
+    h1 {
+        color: #243948;
+    }
+    .form-submit {
+        padding: 1.5625rem 0;
+    }
+    .form-element {
+        @include flex-central-align;
+        @include cross-browser-support-transition-set;
+        button:only-child {
+            padding: .625rem 1.5625rem;
+            border-radius: .3125rem;
+            border: none;
+            box-shadow: 0 .625rem 1.25rem #11111129;
+            background: white;
+            font-size: 1rem;
+            width: 16.25rem;
+            cursor: pointer;
+            @include cross-browser-support-transition-set;
+            &:hover {
+                @include cross-browser-support-transition-set;
+                background: $secondary-color;
+            }
+        }
+        input {
+            height: 25px;
+            padding: .3125rem;
+            border-radius: .3125rem;
+            border: .0625rem solid #6495ed;
+            width: 15.625rem;
+            font-size: 1.125rem;
+            caret-color: #5fa0be;
+            color: #344147;
+            @include cross-browser-support-transition-set;
+            &:focus {
+                @include cross-browser-support-transition-set;
+                background: $secondary-color;
+            }
+            &:hover {
+                border-color: #243948;
+                @include cross-browser-support-transition-set;
+            }
+        }
+        label {
+            padding: .625rem 0;
+            font-size: 1.125rem;
+            color: #243948;
+        }
+    }
+}

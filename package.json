@@ -1,0 +1,29 @@
+{
+  "name": "jquery-form-validation-project",
+  "version": "1.0.0",
+  "description": "A form validation project created using HTML5, CSS (SCSS), JavaScript & jQuery",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asbhogal/jQuery-Form-Validation-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asbhogal/jQuery-Form-Validation-Project/issues"
+  },
+  "homepage": "https://github.com/asbhogal/jQuery-Form-Validation-Project#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.0.0",
+    "sass": "^1.55.0",
+    "terser": "^5.15.1"
+  },
+  "resolutions": {
+    "node-forge": "0.10.0"
+  }
+}
