@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/asbhogal/jQuery-Form-Validation-Project/issues"
   },
-  "homepage": "https://github.com/asbhogal/jQuery-Form-Validation-Project#readme"
+  "homepage": "https://github.com/asbhogal/jQuery-Form-Validation-Project#readme",
+  "devDependencies": {
+    "sass": "^1.55.0",
+    "terser": "^5.15.1"
+  },
+  "resolutions": {
+    "node-forge": "0.10.0"
+  }
 }
