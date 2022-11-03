@@ -22,10 +22,7 @@
     }
     .form-element {
         @include flex-central-align;
-        transition:                 $transition-03;
-        -webkit-transition:         $transition-03;
-        -moz-transition:            $transition-03;
-        -o-transition:              $transition-03;
+        @include cross-browser-support-transition-set;
         button:only-child {
             padding: .625rem 1.5625rem;
             border-radius: .3125rem;
@@ -35,16 +32,9 @@
             font-size: 1rem;
             width: 16.25rem;
             cursor: pointer;
-            transition:             $transition-03;
-            -webkit-transition:     $transition-03;
-            -moz-transition:        $transition-03;
-            -o-transition:          $transition-03;
+            @include cross-browser-support-transition-set;
             &:hover {
-                background:         $secondary-color;
-                transition:         $transition-03;
-                -webkit-transition: $transition-03;
-                -moz-transition:    $transition-03;
-                -o-transition:      $transition-03;
+                @include cross-browser-support-transition-set;
             }
         }
         input {
@@ -56,23 +46,14 @@
             font-size: 1.125rem;
             caret-color: #5fa0be;
             color: #344147;
-            transition:             $transition-03;
-            -webkit-transition:     $transition-03;
-            -moz-transition:        $transition-03;
-            -o-transition:          $transition-03;
+            @include cross-browser-support-transition-set;
             &:focus {
-                transition:         $transition-03;
-                -webkit-transition: $transition-03;
-                -moz-transition:    $transition-03;
-                -o-transition:      $transition-03;
+                @include cross-browser-support-transition-set;
                 background: $secondary-color;
             }
             &:hover {
                 border-color: #243948;
-                transition:         $transition-03;
-                -webkit-transition: $transition-03;
-                -moz-transition:    $transition-03;
-                -o-transition:      $transition-03;
+                @include cross-browser-support-transition-set;
             }
         }
         label {

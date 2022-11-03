@@ -95,7 +95,6 @@ body {
 
 #wrapper .form-element button:only-child:hover {
   -o-transition: all 1s ease-in;
-  background: #adfcea 26.8%;
   transition: all 1s ease-in;
 }
 
