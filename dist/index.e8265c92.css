@@ -1,0 +1,133 @@
+body {
+  box-sizing: border-box;
+  height: 100vh;
+  vertical-align: middle;
+  background-image: linear-gradient(95.2deg, #adfcea 26.8%, #c0e5f6 64%);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    height: auto;
+    text-align: center;
+    align-items: stretch;
+    display: flex;
+  }
+}
+
+@font-face {
+  font-family: Figtree Light;
+  font-weight: 300;
+  font-style: normal;
+  src: url("Figtree-Light.1fe16653.woff") format("woff"), url("Figtree-Light.b3098982.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Figtree Normal;
+  font-weight: 400;
+  font-style: normal;
+  src: url("Figtree-Regular.558ea7b2.woff") format("woff"), url("Figtree-Regular.ba12769c.woff2") format("woff2");
+  font-display: swap;
+}
+
+* {
+  font-family: Figtree Normal, sans-serif;
+  font-weight: 600;
+}
+
+* p, * input {
+  font-weight: 300;
+}
+
+* button {
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+
+#wrapper {
+  display: inherit;
+  border-radius: 5px;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 50px;
+  box-shadow: 0 10px 20px #11111129;
+}
+
+#wrapper #error-message {
+  color: red;
+}
+
+#wrapper h1 {
+  color: #243948;
+}
+
+#wrapper .form-submit {
+  padding: 25px 0;
+}
+
+#wrapper .form-element {
+  -o-transition: all 1s ease-in;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: all 1s ease-in;
+  display: flex;
+}
+
+#wrapper .form-element button:only-child {
+  width: 260px;
+  cursor: pointer;
+  -o-transition: all 1s ease-in;
+  background: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 25px;
+  font-size: 16px;
+  transition: all 1s ease-in;
+  box-shadow: 0 10px 20px #11111129;
+}
+
+#wrapper .form-element button:only-child:hover {
+  -o-transition: all 1s ease-in;
+  background: #adfcea 26.8%;
+  transition: all 1s ease-in;
+}
+
+#wrapper .form-element input {
+  height: 25px;
+  width: 250px;
+  caret-color: #5fa0be;
+  color: #344147;
+  -o-transition: all 1s ease-in;
+  border: 1px solid #6495ed;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 18px;
+  transition: all 1s ease-in;
+}
+
+#wrapper .form-element input:focus {
+  -o-transition: all 1s ease-in;
+  background: #adfcea 26.8%;
+  transition: all 1s ease-in;
+}
+
+#wrapper .form-element input:hover {
+  -o-transition: all 1s ease-in;
+  border-color: #243948;
+  transition: all 1s ease-in;
+}
+
+#wrapper .form-element label {
+  color: #243948;
+  padding: 10px 0;
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=index.e8265c92.css.map */
