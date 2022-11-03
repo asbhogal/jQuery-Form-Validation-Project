@@ -1,7 +1,7 @@
 {
   "name": "jquery-form-validation-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A form validation project created using HTML5, CSS (SCSS), JavaScript & jQuery",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"

@@ -1,24 +1,24 @@
-14213
+14233
 159C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\_baseIsArguments.js133119538208121984 0
 168C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\update-browserslist-db\package.json133119538190863462 0
 184C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\getboundingclientrect.js133119538218904594 0
 213C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\package-manager\node_modules\@parcel\workers\src\threads\ThreadsChild.js133119539806686779 0
 184C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\parcel\node_modules\@parcel\utils\src\bundle-url.js133119539804487743 0
 176C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\jsdom\lib\jsdom\living\generated\Element.js133119538210478448 0
-150C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@msgpackr-extract133119539834406419 1
+150C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@msgpackr-extract133119549496619695 1
 204C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-htmlnano\node_modules\cosmiconfig\dist\index.d.ts.map133119539797252935 0
 181C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\source-map-support\browser-source-map-support.js133119538179942687 0
 154C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\xxhash-wasm\README.md133119539769895807 0
 147C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\wrap.js133119538228707990 0
 163C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\type-fest\ts41\kebab-case.d.ts133119539776734878 0
 210C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\node-resolver-core\node_modules\@parcel\utils\test\objectHash.test.js133119539789727647 0
-132C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\package.json133119540694574003 0
+132C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\package.json133119553778674465 0
 204C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\debounce.js133119539779983604 0
 172C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\json-schema-traverse\spec\.eslintrc.yml133119538192346491 0
 164C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\regions\FM.js133119538218373839 0
 139C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\base-x133119539767441928 1
 187C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-js\node_modules\ansi-styles\index.d.ts133119539767292320 0
-124C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist133119545512271856 1
+124C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist133119550041303522 1
 159C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\utility-types\package.json133119539769112740 0
 172C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\cssstyle\lib\properties\paddingRight.js133119538208942890 0
 154C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\dist\lib133119538225044144 1
@@ -36,7 +36,7 @@
 147C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\terser\LICENSE133119538181385440 0
 175C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\css3-tabsize.js133119538216482284 0
 130C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\.gitignore133119533665654498 0
-137C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\package-lock.json133119539859446981 0
+137C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\package-lock.json133119549498375067 0
 182C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\msgpackr-extract\src\.vs\src\v16\Browse.VC.db-shm133119539771807842 0
 188C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-image\node_modules\has-flag\readme.md133119539767092790 0
 165C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\term-size\vendor\macos\.DS_Store133119539765581009 0
@@ -66,7 +66,7 @@
 180C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\cache\node_modules\chalk\source\util.js133119539766349925 0
 209C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-html\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133119539778467893 0
 170C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\cache\node_modules\color-name133119539765686330 1
-132C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules133119539856871405 1
+132C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules133119549496609732 1
 157C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\dotenv-expand\index.d.ts133119538183606264 0
 191C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-svgo\node_modules\domhandler\lib\node.js133119539765626384 0
 146C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\nth.js133119538224725035 0
@@ -119,7 +119,7 @@
 152C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\_castPath.js133119538212036882 0
 182C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\@parcel\fs\src\index.js133119539803976423 0
 158C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\package.json133119538226881907 0
-138C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@lmdb133119539834416405 1
+138C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@lmdb133119549496619695 1
 150C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\_baseAt.js133119538203590820 0
 198C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\create.js133119539778961582 0
 153C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\postcss\lib\input.js133119538194191707 0
@@ -224,7 +224,7 @@
 165C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\ordered-binary\.idea\modules.xml133119539770971119 0
 213C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\color-convert\conversions.js133119539765389097 0
 163C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\source-map-support\register.js133119538184720475 0
-154C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\src\scss\partials\_typography.scss133119545078826943 0
+154C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\src\scss\partials\_typography.scss133119550029573922 0
 197C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\LICENSE133119539782248885 0
 186C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\types\node_modules\@parcel\watcher\index.d.ts133119539796105017 0
 199C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\graph\node_modules\@parcel\utils\test\prettifyTime.test.js133119539792061358 0
@@ -293,7 +293,7 @@
 184C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\jsdom\lib\jsdom\living\generated\HTMLMenuElement.js133119538213544658 0
 144C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\ansi-styles133119538185003019 1
 160C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\xmlchars\xmlns\1.0\ed3.d.ts133119538199579173 0
-151C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\.package-lock.json133119539861410165 0
+151C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\.package-lock.json133119549499363191 0
 189C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-svg\node_modules\htmlparser2\LICENSE133119539775079780 0
 157C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\json-schema\package.json133119538186759525 0
 151C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\yaml\dist\types.js133119539782869526 0
@@ -357,7 +357,7 @@
 212C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\parcel\node_modules\@parcel\watcher\prebuilds\darwin-arm64\node.napi.glibc.node133119539808548253 0
 167C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133119539769455365 0
 178C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-raw\src\RawTransformer.js133119539781599989 0
-140C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel133119539856791445 1
+140C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel133119549493888932 1
 149C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\method.js133119538224464896 0
 216C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-service-worker\node_modules\@parcel\utils\test\prettifyTime.test.js133119539797463468 0
 159C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\async-limiter\package.json133119538178309083 0
@@ -1944,6 +1944,7 @@
 161C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\webidl-conversions\README.md133119538180706102 0
 156C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\parent-module\readme.md133119539766409757 0
 179C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\meta-theme-color.js133119538222297478 0
+180C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-sass\lib\SassTransformer.js133119549496420001 0
 156C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\sass\types\compile.d.ts133119534336860929 0
 164C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\webidl-conversions\lib\index.js133119538186779909 0
 154C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\_baseFilter.js133119538206103977 0
@@ -3224,8 +3225,8 @@
 187C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\parcel\node_modules\@parcel\watcher\src\unix\legacy.cc133119539804674352 0
 160C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\sshpk\man\man1\sshpk-conv.1133119538191714217 0
 166C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\jsdom\lib\jsdom\living\domparsing133119538205550669 1
-167C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\source-map-js\lib\binary-search.js133119534336391773 0
 207C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\collection.js133119539783638767 0
+167C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\source-map-js\lib\binary-search.js133119534336391773 0
 160C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\sshpk\man\man1\sshpk-sign.1133119538192926146 0
 150C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\sshpk\lib\algs.js133119538195426777 0
 213C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-image\node_modules\@parcel\workers\src\threads\ThreadsChild.js133119539797653473 0
@@ -3253,6 +3254,7 @@
 152C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\performance-now\lib133119538187559619 1
 189C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\cache\node_modules\@parcel\watcher\src\Signal.hh133119539783296131 0
 159C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\sshpk\lib\formats\pkcs8.js133119538202427185 0
+173C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\jQuery - Form Validation Project.59712999.js.map133119550039508946 0
 187C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\jsdom\lib\jsdom\living\nodes\HTMLSourceElement-impl.js133119538219514068 0
 159C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\sshpk\lib\formats\putty.js133119538203057193 0
 147C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\omit.js133119538224863270 0
@@ -3601,8 +3603,8 @@
 155C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\ajv\lib\dotjs\oneOf.js133119538207166346 0
 148C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\nanoid\index.js133119539771115681 0
 183C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\README.md133119539807298602 0
-140C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\qs\dist133119538195215588 1
 207C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\bundle-url.js133119539783406011 0
+140C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\qs\dist133119538195215588 1
 229C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\replaceBundleReferences.js133119539794933449 0
 150C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\pn\querystring.js133119538202816289 0
 139C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\qs\lib133119538197705832 1
@@ -3840,17 +3842,18 @@
 155C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\fp\transform.js133119538227828330 0
 159C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lightningcss\node\index.js133119539767202559 0
 145C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\pn\crypto.js133119538196232500 0
+165C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-sass\LICENSE133119549496370083 0
 202C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\reporter-dev-server\node_modules\@parcel\logger\src\Logger.js133119539797463468 0
 148C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lmdb\index.d.ts133119539807436511 0
 184C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133119538211786357 0
 193C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\bundler-default\node_modules\supports-color\index.js133119539765299342 0
 142C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\pn\dns.js133119538197446454 0
-182C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133119539800786544 0
-156C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lines-and-columns\build133119539766873029 1
-201C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\blob.js133119539783125745 0
 145C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\pn\domain.js133119538197964459 0
 151C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\colord\colord.d.ts133119539779255385 0
 217C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\relativeUrl.js133119539794672533 0
+182C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133119539800786544 0
+201C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\blob.js133119539783125745 0
+156C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lines-and-columns\build133119539766873029 1
 156C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\fp\spreadFrom.js133119538226812085 0
 151C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\msgpackr\README.md133119539781683019 0
 162C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\iconv-lite\lib\extend-node.js133119538202917567 0
@@ -4140,6 +4143,7 @@
 201C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-svg\node_modules\dom-serializer\lib\esm\index.js133119539766923054 0
 169C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\parent-module\node_modules\callsites133119539766972918 1
 192C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.1133119539777453754 0
+170C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-sass\package.json133119549496460871 0
 205C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-service-worker\node_modules\@parcel\logger\lib\Logger.js133119539781631492 0
 157C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\_charsEndIndex.js133119538212166795 0
 169C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-image\package.json133119539791546249 0
@@ -5601,6 +5605,7 @@
 222C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\packager-svg\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133119539771602902 0
 154C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\_Uint8Array.js133119538217000892 0
 155C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\_unicodeSize.js133119538217050774 0
+142C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\index.7ffdec66.js133119550040948126 0
 189C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\packager-html\node_modules\@parcel\utils\LICENSE133119539786762615 0
 158C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\_unicodeToArray.js133119538217080717 0
 178C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\dotenv\package.json133119539801385504 0
@@ -6032,6 +6037,7 @@
 152C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\lodash\fp\random.js133119538225776828 0
 203C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\has-flag\readme.md133119539766912958 0
 201C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\types\node_modules\@parcel\utils\test\input\config\config.js133119539778225636 0
+157C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-sass133119549496450191 1
 156C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\fast-deep-equal\LICENSE133119538178378899 0
 205C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlnano\lib\modules\minifyJs.js133119539799246219 0
 164C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-postcss\lib133119539778245585 1
@@ -6544,6 +6550,7 @@
 226C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\packager-svg\node_modules\dom-serializer\node_modules\entities\lib\maps\entities.json133119539769195890 0
 187C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\jsdom\lib\jsdom\living\generated\DocumentReadyState.js133119538210087509 0
 150C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\aws4\package.json133119538186199800 0
+146C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\index.09c24910.js.map133119550039508946 0
 164C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\jsdom\lib\jsdom\living\index.js133119538217662179 0
 174C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-posthtml\node_modules133119539746877749 1
 199C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlnano\docs\package.json133119539805718105 0
@@ -7097,10 +7104,10 @@
 153C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\getpass\lib\index.js133119538189214275 0
 190C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-posthtml\node_modules\posthtml-parser133119539777656718 1
 151C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\fs.realpath\old.js133119538189334646 0
+203C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\config.js133119539784147459 0
 157C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\fs.realpath\package.json133119538178618920 0
 152C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\color-name\index.js133119538189003869 0
 196C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\ansi-styles\index.js133119539764218468 0
-203C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\config.js133119539784147459 0
 187C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\types\node_modules\@parcel\watcher\src\windows133119539783045953 1
 173C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-postcss\node_modules133119539746877749 1
 177C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\rel-noreferrer.js133119538224165339 0
@@ -7350,6 +7357,7 @@
 173C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\cssstyle\lib\properties\lightingColor.js133119538208062153 0
 200C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-css\node_modules\@parcel\utils\src\TapStream.js133119539802815326 0
 207C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-css\node_modules\@parcel\utils\test\DefaultMap.test.js133119539785487706 0
+152C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\Figtree-Light.1fe16653.woff133119550037319299 0
 195C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-svgo\README.md133119539791080686 0
 170C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\cssstyle\lib\properties\marginLeft.js133119538208351992 0
 193C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@mischnic\json-sourcemap\node_modules\json5\lib\stringify.js133119539769705456 0
@@ -7369,8 +7377,6 @@
 180C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\cssstyle\lib\properties\textLineThroughColor.js133119538209213629 0
 191C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-htmlnano\node_modules\parse-json\license133119539762909277 0
 177C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\cssstyle\lib\properties\textOverlineColor.js133119538209273697 0
-186C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\packager-html\node_modules\entities\readme.md133119539791812837 0
-206C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\ansi-html.js133119539782994666 0
 208C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Parentheses.js133119539799056316 0
 178C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\cssstyle\lib\properties\textUnderlineColor.js133119538209344688 0
 163C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\cssstyle\lib\properties\top.js133119538209405085 0
@@ -7475,6 +7481,7 @@
 169C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\csso\node_modules\css-tree\lib\utils133119538210207595 1
 151C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\asynckit\stream.js133119538190556822 0
 170C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\csso\node_modules\css-tree\lib\walker133119538209304058 1
+161C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-sass\lib133119549496400069 1
 180C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\csso\node_modules\css-tree\lib\walker\create.js133119538203801554 0
 179C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\csso\node_modules\css-tree\lib\walker\index.js133119538209324006 0
 189C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-htmlnano\node_modules\domutils\LICENSE133119539762899292 0
@@ -7587,8 +7594,8 @@
 182C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\csso\node_modules\css-tree\lib\lexer\structure.js133119538211886583 0
 219C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-svg\node_modules\dom-serializer\node_modules\entities\lib\index.js133119539767412297 0
 158C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@swc\helpers\src\_get.mjs133119539805817856 0
-178C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\csso\node_modules\css-tree\lib\lexer\trace.js133119538212206691 0
 205C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\debounce.js133119539785223023 0
+178C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\csso\node_modules\css-tree\lib\lexer\trace.js133119538212206691 0
 183C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\csso\node_modules\css-tree\lib\generator\create.js133119538202337415 0
 176C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133119539808850057 0
 186C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\csso\node_modules\css-tree\lib\generator\sourceMap.js133119538211796698 0
@@ -8101,6 +8108,7 @@
 177C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\battery-status.js133119538207866725 0
 176C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\object-values.js133119538223109448 0
 169C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\beacon.js133119538208161876 0
+169C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\jQuery - Form Validation Project.59712999.js133119550039449106 0
 179C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\beforeafterprint.js133119538208251914 0
 174C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\blobbuilder.js133119538208822623 0
 215C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\node-resolver-core\node_modules\@parcel\utils\test\input\config\config.cjs133119539771737496 0
@@ -8487,8 +8495,8 @@
 174C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\pointerlock.js133119538223745508 0
 183C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\prefers-color-scheme.js133119538223795367 0
 227C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\packager-html\node_modules\dom-serializer\node_modules\entities\lib\maps\entities.json133119539769205826 0
-171C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\progress.js133119538223825282 0
 207C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\countLines.js133119539785011356 0
+171C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\progress.js133119538223825282 0
 177C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\packager-js\node_modules\ansi-styles133119539766761222 1
 168C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\caniuse-lite\data\features\proxy.js133119538223895094 0
 169C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-image\node_modules133119539746557644 1
@@ -9430,6 +9438,8 @@
 203C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-svg\node_modules\dom-serializer\lib\index.d.ts.map133119539770821509 0
 206C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\foo.js133119539780581997 0
 214C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-svg\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133119539769455365 0
+161C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-sass\src133119549496439945 1
+180C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-sass\src\SassTransformer.js133119549496439945 0
 195C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\optimizer-svgo\node_modules\nth-check\lib\compile.d.ts133119539793338490 0
 179C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133119539775349226 0
 184C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\transformer-react-refresh-wrap\node_modules133119539746877749 1
@@ -10553,6 +10563,8 @@
 217C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\test\input\config\config.js133119539784435011 0
 219C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\test\input\config\config.json133119539803351606 0
 209C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\alternatives.js133119539782809686 0
+186C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\packager-html\node_modules\entities\readme.md133119539791812837 0
+206C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\ansi-html.js133119539782994666 0
 199C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\packager-html\node_modules\posthtml-parser\dist\index.d.ts133119539787578724 0
 203C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\prettyDiagnostic.js133119539802063774 0
 207C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\runtime-react-refresh\node_modules\@parcel\utils\src\DefaultMap.js133119539785457196 0
@@ -13732,6 +13744,7 @@
 186C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\node-addon-api\node_api.gyp133119539801703969 0
 187C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\node-addon-api\noexcept.gypi133119539802518201 0
 194C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\node-addon-api\package-support.json133119539804875925 0
+146C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\index.7ffdec66.js.map133119550041017939 0
 186C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\node-addon-api\package.json133119539805015718 0
 183C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\node-addon-api\README.md133119539805837798 0
 189C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\node-addon-api\tools\README.md133119539805969139 0
@@ -13811,6 +13824,7 @@
 194C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\@parcel\watcher\src\watchman\IPC.hh133119539806451563 0
 206C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.hh133119539806883137 0
 193C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\@parcel\watcher\src\unix\legacy.cc133119539804038063 0
+147C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\index.e8265c92.css.map133119550040747577 0
 206C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\@parcel\watcher\src\shared\BruteForceBackend.cc133119539802527997 0
 197C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\@parcel\watcher\prebuilds\darwin-arm64133119539807536683 1
 215C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\core\node_modules\@parcel\watcher\prebuilds\win32-x64\node.napi.glibc.node133119539811396250 0
@@ -13909,6 +13923,7 @@
 187C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\codeframe\node_modules\color-convert\README.md133119539767817950 0
 186C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\codeframe\node_modules\color-convert\route.js133119539768276773 0
 177C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\codeframe\node_modules\chalk\license133119539762608192 0
+142C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\index.09c24910.js133119550039449106 0
 176C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\codeframe\node_modules\chalk\source133119539765990263 1
 185C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\codeframe\node_modules\chalk\source\index.js133119539764408772 0
 189C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\@parcel\codeframe\node_modules\chalk\source\templates.js133119539765379107 0
@@ -14210,5 +14225,10 @@
 142C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\.bin\uuid133119538235919343 0
 146C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\node_modules\.bin\uuid.ps1133119538235919343 0
 128C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\css133119545512341518 1
+153C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\Figtree-Light.b3098982.woff2133119550037073325 0
+154C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\Figtree-Regular.558ea7b2.woff133119550037444043 0
+155C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\Figtree-Regular.ba12769c.woff2133119550037063273 0
+143C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\index.e8265c92.css133119550040701868 0
+135C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\index.html133119550041293540 0
 138C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\css\style.css133119547555060019 0
 142C:\Users\asbho\OneDrive\Documents\Udemy\The Complete Web Developer Course 2.0\Projects\jQuery - Form Validation Project\dist\css\style.css.map133119547555043317 0
